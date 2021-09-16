@@ -94,7 +94,6 @@ a {
   place-items: center;
   height: 100%;
   width: 100%;
-  
 }
 #works > div {
   width: 20rem;
@@ -189,7 +188,7 @@ a {
     grid-template-columns: repeat(3, 1fr);
   }
 }
-@media (min-width:750px) and (max-width:1060px ) {
+@media (min-width: 750px) and (max-width: 1060px) {
   #works {
     grid-template-columns: repeat(2, 1fr);
   }
